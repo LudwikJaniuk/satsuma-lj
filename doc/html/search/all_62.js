@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['backarc',['BackArc',['../class_satsuma_1_1_dfs.html#a72fbbfcb3cab75622e7c904d135496cb',1,'Satsuma::Dfs']]],
+  ['backward',['Backward',['../class_satsuma_1_1_dfs.html#a547d99c03c296af5dad576cb7f32ec9aab3263eb38f8903efc271cc7a760da510',1,'Satsuma.Dfs.Backward()'],['../class_satsuma_1_1_redirected_graph.html#ab3cc2b93d6c3fd5f23a09e781697cddfab3263eb38f8903efc271cc7a760da510',1,'Satsuma.RedirectedGraph.Backward()'],['../namespace_satsuma.html#a805963f55b9824ef31ccc7553255a6ddab3263eb38f8903efc271cc7a760da510',1,'Satsuma.Backward()']]],
+  ['begin',['Begin',['../class_satsuma_1_1_path.html#a64cc3bd80f9c287a3974a68a142755b2',1,'Satsuma::Path']]],
+  ['bellmanford',['BellmanFord',['../class_satsuma_1_1_bellman_ford.html',1,'Satsuma']]],
+  ['bellmanford',['BellmanFord',['../class_satsuma_1_1_bellman_ford.html#a62a2bf4a8ef36f10b001aea7acbc85a4',1,'Satsuma::BellmanFord']]],
+  ['bellmanford_2ecs',['BellmanFord.cs',['../_bellman_ford_8cs.html',1,'']]],
+  ['bfs',['Bfs',['../class_satsuma_1_1_bfs.html',1,'Satsuma']]],
+  ['bfs',['Bfs',['../class_satsuma_1_1_bfs.html#a4149a28be81278977fec716a06a7469d',1,'Satsuma::Bfs']]],
+  ['bfs_2ecs',['Bfs.cs',['../_bfs_8cs.html',1,'']]],
+  ['biedgeconnectedcomponents',['BiEdgeConnectedComponents',['../class_satsuma_1_1_bi_edge_connected_components.html',1,'Satsuma']]],
+  ['biedgeconnectedcomponents',['BiEdgeConnectedComponents',['../class_satsuma_1_1_bi_edge_connected_components.html#a876d50b9348780112dd15bce4fff60b2',1,'Satsuma::BiEdgeConnectedComponents']]],
+  ['binodeconnectedcomponents',['BiNodeConnectedComponents',['../class_satsuma_1_1_bi_node_connected_components.html',1,'Satsuma']]],
+  ['binodeconnectedcomponents',['BiNodeConnectedComponents',['../class_satsuma_1_1_bi_node_connected_components.html#aa850b462c3280c3bb245720a121129fc',1,'Satsuma::BiNodeConnectedComponents']]],
+  ['bipartite',['Bipartite',['../class_satsuma_1_1_bipartition.html#a64c57bceba82de0842a2e40e9e5b8796',1,'Satsuma::Bipartition']]],
+  ['bipartition',['Bipartition',['../class_satsuma_1_1_bipartition.html#af4154d47a9c51ddfd939bed5dae12a90',1,'Satsuma::Bipartition']]],
+  ['bipartition',['Bipartition',['../class_satsuma_1_1_bipartition.html',1,'Satsuma']]],
+  ['blue',['Blue',['../class_satsuma_1_1_complete_bipartite_graph.html#ab34b0e67adcc25e6883de4cf0e2ef06ea9594eec95be70e7b1710f730fdda33d9',1,'Satsuma::CompleteBipartiteGraph']]],
+  ['bluenodecount',['BlueNodeCount',['../class_satsuma_1_1_complete_bipartite_graph.html#a528352fa2df7b0af0ba1e4aa7dd6d07d',1,'Satsuma::CompleteBipartiteGraph']]],
+  ['bluenodes',['BlueNodes',['../class_satsuma_1_1_bipartition.html#a1db346f3b981af884fe1dd8ad7a4946e',1,'Satsuma::Bipartition']]],
+  ['bool',['Bool',['../namespace_satsuma_1_1_i_o_1_1_graph_m_l.html#a93b0288f7994c0ff6e254435ac565e11ac26f15e86e3de4c398a8273272aba034',1,'Satsuma::IO::GraphML']]],
+  ['bridges',['Bridges',['../class_satsuma_1_1_bi_edge_connected_components.html#ae4499f47b9702cec3a8b1ebecb7b5459',1,'Satsuma::BiEdgeConnectedComponents']]],
+  ['brush',['Brush',['../class_satsuma_1_1_drawing_1_1_node_style.html#ac5590fe3b86dbcd2043b22dc673153ef',1,'Satsuma::Drawing::NodeStyle']]]
+];

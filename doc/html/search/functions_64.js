@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['deletearc',['DeleteArc',['../interface_satsuma_1_1_i_destroyable_graph.html#a668b15d87b29e2619ea2ee5d80ed90e2',1,'Satsuma.IDestroyableGraph.DeleteArc()'],['../class_satsuma_1_1_supergraph.html#aed868fcb7b4775e0e5183ae3649fb30a',1,'Satsuma.Supergraph.DeleteArc()']]],
+  ['deletenode',['DeleteNode',['../interface_satsuma_1_1_i_destroyable_graph.html#a394824c5dbfe8e157e203d616a9ce138',1,'Satsuma.IDestroyableGraph.DeleteNode()'],['../class_satsuma_1_1_supergraph.html#ae8e3176c449108241ddb248e02c5f57f',1,'Satsuma.Supergraph.DeleteNode()']]],
+  ['dictionaryproperty',['DictionaryProperty',['../class_satsuma_1_1_i_o_1_1_graph_m_l_1_1_dictionary_property_3_01_t_01_4.html#a1f7536bc7aaa38d46e4b30f86f44ba4d',1,'Satsuma::IO::GraphML::DictionaryProperty&lt; T &gt;']]],
+  ['dijkstra',['Dijkstra',['../class_satsuma_1_1_dijkstra.html#af909dd1282a10408c32898cca28daae0',1,'Satsuma::Dijkstra']]],
+  ['disjointset',['DisjointSet',['../class_satsuma_1_1_disjoint_set_3_01_t_01_4.html#a47de6ea3aa7d53b174276a455248ded0',1,'Satsuma::DisjointSet&lt; T &gt;']]],
+  ['disjointsetset',['DisjointSetSet',['../struct_satsuma_1_1_disjoint_set_set_3_01_t_01_4.html#a3aad24848d71d0da758b66a8ec4416e9',1,'Satsuma::DisjointSetSet&lt; T &gt;']]],
+  ['distance',['Distance',['../struct_satsuma_1_1_drawing_1_1_point_d.html#a19bfd9cd48c9444350bb82b6f804213d',1,'Satsuma::Drawing::PointD']]],
+  ['domaintographml',['DomainToGraphML',['../class_satsuma_1_1_i_o_1_1_graph_m_l_1_1_graph_m_l_property.html#a98c15e20828bf1e48a26a429107c467a',1,'Satsuma::IO::GraphML::GraphMLProperty']]],
+  ['draw',['Draw',['../interface_satsuma_1_1_drawing_1_1_i_node_shape.html#ab47a99149404748b898ce9197bf9e597',1,'Satsuma.Drawing.INodeShape.Draw()'],['../class_satsuma_1_1_drawing_1_1_node_shape.html#a2f233714e918502b974ab82dfc364f9e',1,'Satsuma.Drawing.NodeShape.Draw()'],['../class_satsuma_1_1_drawing_1_1_graph_drawer.html#a89de585f0136bf3a305d4c59f08fa851',1,'Satsuma.Drawing.GraphDrawer.Draw(Graphics graphics, Matrix matrix=null)'],['../class_satsuma_1_1_drawing_1_1_graph_drawer.html#a642c46bde1f8cf0783b6afa6b7053786',1,'Satsuma.Drawing.GraphDrawer.Draw(Graphics graphics, RectangleF box)'],['../class_satsuma_1_1_drawing_1_1_graph_drawer.html#aa443d39b52e99f4ebb12b747b6e92132',1,'Satsuma.Drawing.GraphDrawer.Draw(int width, int height, Color backColor, bool antialias=true, PixelFormat pixelFormat=PixelFormat.Format32bppArgb)']]]
+];
