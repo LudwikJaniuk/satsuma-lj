@@ -64,7 +64,10 @@ namespace Satsuma
 				if (condition(list[i]))
 				{
 					if (i < list.Count - 1)
+					{
 						list[i] = list[list.Count - 1];
+						i--;
+					}
 					list.RemoveAt(list.Count - 1);
 				}
 			}
